@@ -1,7 +1,7 @@
 # HashCat2
 
-* `파일에서 해쉬값을 출력합니다.`
-* `MD5, SHA1, SHA256을 지원합니다.`
+* 파일에서 해쉬값을 출력합니다.
+* MD5, SHA1, SHA256을 지원합니다.
 
 [ 클라우드 Rx (<a href='https://novelpie.org'>https://novelpie.org</a>) ]에서 제공합니다.
 

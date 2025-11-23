@@ -1,0 +1,17 @@
+
+*.repo
+
+browserfy
+browserfy/*
+
+src
+src/*
+src/**/*
+node_modules/
+
+package
+package*
+package.json
+
+
+gulpfile.js
